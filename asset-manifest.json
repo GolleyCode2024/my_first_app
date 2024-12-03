@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GolleyCode2024/my_first_app/static/css/main.189e2bbe.css",
+    "main.js": "/GolleyCode2024/my_first_app/static/js/main.6134d7d8.js",
+    "index.html": "/GolleyCode2024/my_first_app/index.html",
+    "main.189e2bbe.css.map": "/GolleyCode2024/my_first_app/static/css/main.189e2bbe.css.map",
+    "main.6134d7d8.js.map": "/GolleyCode2024/my_first_app/static/js/main.6134d7d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189e2bbe.css",
+    "static/js/main.6134d7d8.js"
+  ]
+}
